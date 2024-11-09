@@ -18,6 +18,15 @@ This repository includes various examples, tutorials, and resources to assist yo
 
 For further details, please refer to the documentation links provided throughout this repository.
 
+
+## Practice Index
+
+This section contains links to the different classes and practice sessions available in this repository. Each entry provides a structured approach to learning concepts for the AI Fundamentals certification.
+
+1. [Introduction - Practice of ML](Intro-Study_of_ML-JEVG/2_Class_JEVG.md)
+2. _More classes will be added as the course progresses._
+
+
 ---
 
 By following the course material and completing the exercises, you’ll be well-prepared to pursue certification and apply your AI knowledge to solve practical challenges.
