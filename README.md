@@ -27,8 +27,9 @@ This section contains links to the different classes and practice sessions avail
 2. [Introduction - Practice of Speech Studio](Intro-AzureAI_SpeechStudio-JEVG/3_Class_JEVG.md)
 3. [Introduction - Practice of Vision Studio](Intro-AzureAI_VisionStudio-JEVG/5_Class_JEVG.md)
 4. [Introduction - Practice of Language Studio](Intro-AzureAI_LanguageStudio-JEVG/7_Class_JEVG.md)
-
-4. _More classes will be added as the course progresses._
+5. [Azure Ai | Machine Learning Studio - Python Process -](AzureAI_ML_Studio_Python-JEVG/11_Class_JEVG.md)
+   
+X. _More classes will be added as the course progresses._
 
 
 ---
