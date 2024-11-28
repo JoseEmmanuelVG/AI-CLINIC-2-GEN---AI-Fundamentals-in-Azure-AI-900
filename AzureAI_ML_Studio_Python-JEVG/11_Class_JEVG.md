@@ -38,6 +38,9 @@ With the Jupyter notebook set up, you can write your script to perform your firs
 # My First Data Analysis in Azure AI
 
 This notebook demonstrates a basic data analysis workflow using Azure AI Machine Learning Studio. The dataset used in this example is the [Credit Card Default Dataset](https://www.kaggle.com/code/ybifoundation/credit-card-default). Below is a step-by-step breakdown of the process, including code, visualizations, and insights.
+
+The full Jupyter Notebook used for this analysis can be found in the following link:  
+[Data Analysis with Azure AI ML Studio - Jupyter Notebook](https://github.com/JoseEmmanuelVG/AI-CLINIC-2-GEN---AI-Fundamentals-in-Azure-AI-900/blob/main/AzureAI_ML_Studio_Python-JEVG/DataAnalysis_JEVG.ipynb)
 ---
 
 ### Dataset
