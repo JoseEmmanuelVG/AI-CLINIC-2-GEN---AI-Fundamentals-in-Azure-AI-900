@@ -1,6 +1,6 @@
 # Microsoft Certified: Azure AI Fundamentals Training
 
-Welcome to the Azure AI Fundamentals training repository. This course, **IA Clinic 2 Gen - Azure AI Fundamentals**, is part of a cybersecurity network initiative in collaboration with Microsoft, designed to provide foundational training in artificial intelligence (AI) concepts and tools within Azure.
+Welcome to the Azure AI Fundamentals training repository. This course, **IA Clinic 2 Gen - Azure AI Fundamentals** by sherpa José Jesús Guzmán Eusebio, is part of a cybersecurity network initiative in collaboration with Microsoft, designed to provide foundational training in artificial intelligence (AI) concepts and tools within Azure.
 
 This training aims to prepare participants for the **Microsoft Certified: Azure AI Fundamentals** certification, covering essential AI and machine learning concepts and practical applications using Azure Machine Learning Studio.
 
